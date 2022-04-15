@@ -1,7 +1,7 @@
-[
+
     {
     
-        "climate": [
+        "rainfall": [
             {
                 "activity": "You could go snowbarding",
                 "emoji": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/snowboarder_1f3c2.png",
@@ -32,11 +32,9 @@
                 "clothes": "boots",
                 "clothes_emoji": "https://cdn.thewirecutter.com/wp-content/media/2022/01/winter-boots-2048px-9386-2x1-1.jpg?auto=webp&quality=75&crop=2:1&width=1024"
             }
-        ]
-    },
-    {
+        ],
 
-        "climate": [
+        "sunny": [
             {
                 "activity": "Go out for a hike",
                 "emoji": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/person-running_1f3c3.png",
@@ -67,11 +65,9 @@
                 "clothes": "pants",
                 "clothes_emoji": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/304/jeans_1f456.png"
             }
-        ]
-    },
-    {
+        ],
        
-        "climate": [
+        "chilly": [
             {
                 "activity": "play a board game",
                 "emoji": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/320/white-chess-queen_2655.png",
@@ -102,11 +98,9 @@
                 "clothes": "head-warmers",
                 "clothes_emoji": "https://scene7.zumiez.com/is/image/zumiez/image/Dickies-Cuff-Ivory-Beanie--_337021.jpg"
             }
-        ]
-    },
-    {
+        ],
        
-        "climate": [
+        "rainy": [
             {
                 "activity": "Good time to stay indoors",
                 "emoji": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/house-with-garden_1f3e1.png",
@@ -139,4 +133,3 @@
             }
         ]
     }
-]
